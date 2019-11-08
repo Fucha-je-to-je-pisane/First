@@ -14,8 +14,7 @@ nav{
 .logo{
     color: white;
     text-transform: uppercase;
-    letter-spacing: 3px;
-    text-decoration: none;
+    letter-spacing: 3px;    
 }
 .nav-links{
     display: flex;
